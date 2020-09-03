@@ -16,3 +16,5 @@ The bot just retweet the educational tweets from different acc.
 I can't have that project in public because in the code are my tweeter keys
 
 ---
+Learning
+:  I just learn all by my own, I usually check YouTube tutorials
