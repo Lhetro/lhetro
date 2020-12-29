@@ -3,18 +3,14 @@
 ---
 ## Program is my hobbit
 
-- 🔭 I’m currently working on making my web page, with some tutorials
-- 🌱 I’m currently learning HTML, Python, Processing
-- 👯 I’m looking to collaborate on Nothing
+- 🌱 I’m currently learning HTML, p5.js, JavaScript / node.js, Processing
+- 👯 For now I want to code alone
 - 🤔 I’m looking for help with all my code
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm just a teenager
 ---
 
-I have a project call EduMurBot is a bot in Spanish, 
-The bot just retweet the educational tweets from different acc.
-I can't have that project in public because in the code are my tweeter keys
-
----
 Learning
-:  I just learn all by my own, I usually check YouTube tutorials
+:  I just learn all by my own, I usually check YouTube tutorials.
+
+👋
