@@ -3,7 +3,7 @@
 ---
 ## Program is my hobbit
 
-- 🌱 I’m currently learning HTML, p5.js, JavaScript / node.js, Processing
+- 🌱 I’m currently learning HTML, JavaScript / node.js & React
 - 👯 For now I want to code alone
 - 🤔 I’m looking for help with all my code
 - 😄 Pronouns: he/him
