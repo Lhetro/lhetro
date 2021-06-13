@@ -3,7 +3,7 @@
 ---
 ## Program is my hobbit
 
-- 🌱 I’m currently learning HTML, JavaScript / node.js & React
+- 🌱 I’m currently learning HTML, JavaScript / node.js & VUE.JS
 - 👯 For now I want to code alone
 - 🤔 I’m looking for help with all my code
 - 😄 Pronouns: he/him
@@ -11,6 +11,7 @@
 ---
 
 Learning
-:  I just learn all by my own, I usually check YouTube tutorials.
+:  I just learn all by my own.
+:  I'm using right now The Odin Project
 
 👋
